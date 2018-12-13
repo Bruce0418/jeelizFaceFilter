@@ -31,7 +31,7 @@ function detect_callback(isDetected){
     }
 }
 
-//build the 3D. called once when Jeeliz Face Filter is OK
+//build the 3D. called once when FACE FILTER is OK
 function init_babylonScene(spec){
     //INIT THE BABYLON.JS context
     BABYLONENGINE=new BABYLON.Engine(spec.GL);

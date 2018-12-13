@@ -94,7 +94,7 @@ function build_shaderProgram(shaderVertexSource, shaderFragmentSource, id) {
 } //end build_shaderProgram()
 
 
-//build the 3D. called once when Jeeliz Face Filter is OK
+//build the 3D. called once when FACE FILTER is OK
 function init_scene(spec){
     GL=spec.GL;
     VIDEOTEXTURE=spec.videoTexture;

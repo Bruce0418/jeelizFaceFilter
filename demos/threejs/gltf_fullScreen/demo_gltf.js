@@ -30,7 +30,7 @@ function detect_callback(isDetected){
 
 
 
-//build the 3D. called once when Jeeliz Face Filter is OK
+//build the 3D. called once when FACE FILTER is OK
 function init_threeScene(spec){
     CANVASELEMENT=spec.canvasElement;
 

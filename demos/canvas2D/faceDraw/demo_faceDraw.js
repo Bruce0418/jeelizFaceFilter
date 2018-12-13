@@ -168,7 +168,7 @@ function update_projMatrix() {
 //END WEBGL HELPERS
 
 
-//build the 3D. called once when Jeeliz Face Filter is OK
+//build the 3D. called once when FACE FILTER is OK
 function init_scene(spec){
     //affect some globalz
     GL=spec.GL;

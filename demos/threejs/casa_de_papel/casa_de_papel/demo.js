@@ -53,7 +53,7 @@ function create_mat2d(threeTexture, isTransparent){ //MT216 : we put the creatio
     });
 }
 
-// build the 3D. called once when Jeeliz Face Filter is OK
+// build the 3D. called once when FACE FILTER is OK
 function init_threeScene(spec) {
     window.THREESTUFF = THREE.JeelizHelper.init(spec, detect_callback);
 

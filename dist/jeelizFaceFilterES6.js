@@ -1,5 +1,5 @@
  /**
- * Jeeliz Face Filter - https://github.com/jeeliz/jeelizFaceFilter
+ * FACE FILTER - https://github.com/jeeliz/jeelizFaceFilter
  *
  * Copyright 2018 Jeeliz ( https://jeeliz.com )
  *

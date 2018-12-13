@@ -126,7 +126,7 @@ function build_blurMaterial(dxy, threeTexture) {
     return mat;
 } // end build_blurMaterial()
 
-// build the 3D. called once when Jeeliz Face Filter is OK
+// build the 3D. called once when FACE FILTER is OK
 function init_threeScene(spec) {
     // AFFECT GLOBALS :
     GL = spec.GL;

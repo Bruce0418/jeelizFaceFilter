@@ -40,7 +40,7 @@ function extract_threeChildrenWithId(id, threeElt){
 }
 
 
-//unit modified version of Aframe. called once when Jeeliz Face Filter is OK
+//unit modified version of Aframe. called once when FACE FILTER is OK
 function init_aFrame(spec){
     AFRAMEINSTANCE=startAframe({
         context: spec.GL,
